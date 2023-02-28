@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import {Animated, Image} from "react-native";
 import {styles} from "../../styles";
-import ic_switch_on from '../../img/SwitchOn.png';
-import ic_switch_off from '../../img/SwitchOff.png';
+import ic_switch_on from '../../img/brightness.png';
+import ic_switch_off from '../../img/night-mode.png';
 
 export default class Thumb extends Component {
   constructor(props){
